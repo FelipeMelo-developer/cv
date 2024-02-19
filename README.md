@@ -1,8 +1,8 @@
 # Curriculum Vitae Online
 
-Sejam todos bem vindos ao projeto de Curriculum Vitae Online oferecidos pela Digital Innovation One.
+Sejam todos bem vindos ao projeto de Curriculum Vitae Online.
 
-O projeto tem como objetivo montar nossa primeira página web que será a replica de um CV Online, utilizando conceitos de html e Github Pages. Ao  fim teremos nosso currículo pronto e disponível de forma estática.
+O projeto tem como objetivo montar uma página web que será a replica de um CV Online, utilizando conceitos de html e Github Pages. Ao  fim teremos nosso currículo pronto e disponível de forma estática.
 
 Ele também pode ser utilizado como currículo ‘vitae’ e portfolio pessoal.
 
@@ -32,11 +32,9 @@ Há várias formas de iniciar o desenvolvimento do seu projeto, como:
 2. Ao criar o projeto podemos utilizar o próprio GitHub como IDE utilizando o (.) na página inicial do projeto.
 3. Github Pages para visualizamos e compartilhamos nosso CV online com todos.
 
-**Dicas:**
+**Dica:**
 
-Para visualizar o resultado do seu projeto no navegador, você pode  utilizar o Live Server, uma extensão do VSCode que permite abrir o  projeto no navegador e atualiza-lo automaticamente a cada alteração no  código ou pode utilizar o Github Pages.
-
-Lembre-se de incluir comentários no seu código para facilitar a compreensão e a manutenção futura do projeto. Boa sorte!
+Para visualizar o resultado do meu projeto no navegador [clique aqui](https://felipemelo-developer.github.io/cv/)
 
 ### 📑 CONCEITOS UTILIZADOS
 
